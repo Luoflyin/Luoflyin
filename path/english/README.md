@@ -7,7 +7,7 @@
 
 ## My Note
 
-> [Listen to Them](docs/Ltt/)
+> [Listen to Them](docs/Ltt/)   
 > [Book Notes](docs/Bns/)
 
 ## My Write
