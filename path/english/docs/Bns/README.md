@@ -2,7 +2,7 @@
 
 ## Reading order
 
-1.Biography
+1. Biography
 2.Laws of social operation & Social dynamics
 3.Psychology
 4.Economics
