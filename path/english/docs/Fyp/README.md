@@ -63,15 +63,75 @@
         <tbody>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:36px;">1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:282px;">Morning Up</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Morning Up</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:882px;">21:30-4:50</td>
+            <td style="width:82px;">&nbsp;</td>
           </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:36px;">2</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:582px;">Intermittent Fasting Plan</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:582px;">2 meals in 8 hours on workdays, 1 meal on holidays, low sugar, salt, oil,
-              no spicy food</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:582px;">2 meals in 8 hours on Dailys</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">3</td>
+            <td>坚持每日阅读</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">4</td>
+            <td>坚持每日锻炼</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">5</td>
+            <td>坚持每日输出</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">6</td>
+            <td>坚持清淡饮食</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">7</td>
+            <td>娱乐时间2小时以下</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
         </tbody>
       </table>
-    </figure>
