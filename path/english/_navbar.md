@@ -6,4 +6,4 @@
   - [:es:Español](/es/)
   - [:ru:Русский](/ru-ru/)
  
-<a href="javascript:window.history.back();">Go Back</a>
+- <a href="javascript:window.history.back();">Go Back</a>
