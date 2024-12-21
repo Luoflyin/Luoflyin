@@ -1,5 +1,7 @@
 # Five-year plans White paper
 
+终极目标-->五年规划-->年度规划-->季度规划-->周计划
+
 ## Retirement indicators
 
 <figure class="table" style="width:1200px;">
