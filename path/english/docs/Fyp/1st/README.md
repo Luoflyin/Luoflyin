@@ -29,6 +29,8 @@
 
 #### 英语（一）
 
+1.单词6000个
+
 ## Main Indicators
 
 <figure class="table" style="width:1200px;">
