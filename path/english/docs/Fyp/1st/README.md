@@ -23,6 +23,12 @@
       </table>
     </figure>
 
+## Indicator decomposition
+
+### Graduate School Entrance Exam
+
+#### 英语（一）
+
 ## Main Indicators
 
 <figure class="table" style="width:1200px;">
