@@ -23,14 +23,6 @@
       </table>
     </figure>
 
-## Indicator decomposition
-
-### Graduate School Entrance Exam
-
-#### 英语（一）
-
-1.单词6000个
-
 ## Main Indicators
 
 <figure class="table" style="width:1200px;">
@@ -90,6 +82,14 @@
         </tbody>
       </table>
     </figure>
+
+## Indicator decomposition
+
+### Graduate School Entrance Exam
+
+#### 英语（一）
+
+1.单词6000个
 
 ## 2024 Focus
 
