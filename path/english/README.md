@@ -14,6 +14,7 @@
 
 ## My Write
 
-> [〇基础健康手册](docs/Defaulthealth/) 
+> [〇基础健康手册](docs/Defaulthealth/)
+> [追](docs/Lasc/)
 
 ## My Share
