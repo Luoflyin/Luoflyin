@@ -1,0 +1,7 @@
+* [Book Notes](docs/Bns/)
+* * [Biography](docs/Bns/Biography/)
+* * [Laws of social operation & Social dynamics](docs/Bns/)
+* * [Psychology](docs/Bns/)
+* * [Economics](docs/Bns/)
+* * [History & Geography](docs/Bns/)
+* * [Philosophy](docs/Bns/)
