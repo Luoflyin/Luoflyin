@@ -95,7 +95,7 @@
 
 1.单词6000个（）
 
-## 2024 Focus
+## 2025 Focus
 
 <figure class="table" style="width:1200px;">
       <table style="background-color:rgb(255, 255, 255);">
@@ -108,7 +108,7 @@
           </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:600px;"
-            colspan="4">Objectives：</td>
+            colspan="4">Objectives：考研</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:600px;"
             colspan="4">Objectives：</td>
           </tr>
@@ -124,9 +124,9 @@
           </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:80px;">KR-1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:320px;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:320px;">英语单词第一次刷</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">50</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">50</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:80px;">KR-1</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:320px;">&nbsp;</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
@@ -134,9 +134,9 @@
           </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:80px;">KR-2</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:320px;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:320px;">高等数学</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">50</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">50</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:80px;">KR-2</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:320px;">&nbsp;</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
@@ -164,7 +164,7 @@
           </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:600px;"
-            colspan="4">Objectives：</td>
+            colspan="4">Objectives：自考</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:600px;"
             colspan="4">Objectives：</td>
           </tr>
