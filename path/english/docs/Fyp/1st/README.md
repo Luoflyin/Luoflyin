@@ -85,7 +85,11 @@
 
 ## Indicator decomposition
 
-### Graduate School Entrance Exam
+### 1.Obtain Associate's Degree
+
+### 2.Obtain Bachelor's Degree
+
+### 3.Graduate School Entrance Exam
 
 #### 英语（一）
 
