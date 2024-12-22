@@ -56,80 +56,93 @@
 
 ## Good Habit
 
-<figure class="table" style="width:1200px;">
-      <table style="background-color:rgb(255, 255, 255);">
+<figure class="table" style="width:103.83%;">
+      <table class="ck-table-resized" style="background-color:rgb(255, 255, 255);">
+        <colgroup>
+          <col style="width:3.84%;">
+            <col style="width:36.64%;">
+              <col style="width:53.91%;">
+                <col style="width:5.61%;">
+        </colgroup>
         <tbody>
+          <tr>
+            <td style="background-color:#f0f0f0;text-align:center;">编号</td>
+            <td style="background-color:#f0f0f0;">名称</td>
+            <td style="background-color:#f0f0f0;">详情</td>
+            <td style="background-color:#f0f0f0;text-align:center;">时长</td>
+          </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:36px;">1</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Morning Up</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:882px;">21:30-4:50</td>
-            <td style="width:82px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:82px;">&nbsp;</td>
           </tr>
           <tr>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:36px;">2</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:582px;">Intermittent Fasting Plan</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:582px;">2 meals in 8 hours on Dailys</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">3</td>
-            <td>坚持每日阅读</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">3</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">坚持每日阅读</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">4</td>
-            <td>坚持每日锻炼</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">4</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">坚持每日锻炼</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">5</td>
-            <td>坚持每日输出</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">5</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">坚持每日输出</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">6</td>
-            <td>坚持清淡饮食</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">6</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">坚持清淡饮食</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">7</td>
-            <td>娱乐时间2小时以下</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">7</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">娱乐时间2小时以下</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="text-align:center;">&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
         </tbody>
       </table>
+    </figure>
