@@ -87,6 +87,31 @@
 
 ### 1.Obtain Associate's Degree
 
+<figure class="table" style="width:1200px;">
+      <table class="ck-table-resized">
+        <colgroup>
+          <col style="width:3.43%;">
+            <col style="width:84.04%;">
+              <col style="width:12.53%;">
+        </colgroup>
+        <tbody>
+          <tr>
+            <td style="background-color:#f0f0f0;" colspan="3">Obtain Associate's Degree</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">1</td>
+            <td style="border:1px solid rgb(102, 102, 102);padding:5px;">13125-高等数学（经管类）</td>
+            <td style="width:100px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">2</td>
+            <td style="border:1px solid rgb(102, 102, 102);padding:5px;">00043-经济法概论（财经类）</td>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
+
 ### 2.Obtain Bachelor's Degree
 
 ### 3.Graduate School Entrance Exam
