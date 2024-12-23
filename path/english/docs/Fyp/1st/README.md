@@ -161,9 +161,40 @@
 
 ### 3.Graduate School Entrance Exam
 
-#### 英语（一）
-
-1.单词6000个（）
+<figure class="table" style="width:100%;">
+      <table class="ck-table-resized">
+        <colgroup>
+          <col style="width:3.44%;">
+            <col style="width:73.99%;">
+              <col style="width:22.57%;">
+        </colgroup>
+        <tbody>
+          <tr>
+            <td style="background-color:#f0f0f0;" colspan="3">英语</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">1</td>
+            <td>单词</td>
+            <td style="width:100px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">2</td>
+            <td>阅读理解</td>
+            <td style="width:100px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">3</td>
+            <td>语法</td>
+            <td style="width:100px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">4</td>
+            <td>写作</td>
+            <td style="width:100px;">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
 
 ## 2025 Focus
 
