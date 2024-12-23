@@ -114,6 +114,51 @@
 
 ### 2.Obtain Bachelor's Degree
 
+<figure class="table" style="width:1200px;">
+      <table class="ck-table-resized">
+        <colgroup>
+          <col style="width:3.43%;">
+            <col style="width:84.04%;">
+              <col style="width:12.53%;">
+        </colgroup>
+        <tbody>
+          <tr>
+            <td style="background-color:#f0f0f0;" colspan="3">Obtain Associate's Degree</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">1</td>
+            <td style="border:1px solid rgb(102, 102, 102);padding:5px;">03709-马克思主义基本原理概论</td>
+            <td style="width:100px;">&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">2</td>
+            <td style="border:1px solid rgb(102, 102, 102);padding:5px;">13000-英语（专升本）</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">3</td>
+            <td>04184-线性代数（经管类）</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">4</td>
+            <td>00098-国际市场营销学</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">5</td>
+            <td>00185-商品流通概论</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">6</td>
+            <td style="border:1px solid rgb(102, 102, 102);padding:5px;">13675-供应链管理</td>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+    </figure>
+
 ### 3.Graduate School Entrance Exam
 
 #### 英语（一）
