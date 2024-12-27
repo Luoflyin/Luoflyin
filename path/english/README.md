@@ -5,7 +5,7 @@
 > [Five-year plans White paper](docs/Fyp/)  
 > [Yellow Book of Financial Statements](docs/Yfs/)    
 > [投资记录](docs/invest/)   
-> [Enjoy the world with Chaosu](docs/Daily/)
+> [Enjoy the world with Chaosu](docs/Daily/)   
 > [食谱研究](docs/Foods/)
 
 ## My Note
